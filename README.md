@@ -9,20 +9,7 @@ To develop a model using the Random Forest Algorithm to predict temperature, PM2
 
 Dataset:
 
-The dataset contains environmental parameters such as:
-
-Humidity
-
-Wind Speed
-
-Pressure
-
-Temperature
-
-PM2.5
-
-Energy
-
+The dataset contains environmental parameters such as:Humidity,Wind Speed,Pressure,Temperature,PM2.5,Energy
 Format: CSV file (weather_data.csv)
 Type: Numerical data
 
