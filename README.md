@@ -74,3 +74,4 @@ print("Energy MSE:", mean_squared_error(y_energy_test, energy_pred))
 <img width="462" height="89" alt="image" src="https://github.com/user-attachments/assets/72fb45cd-89ab-41ba-8762-d885fa7835db" />
 
 ## Result:
+The Random Forest model was successfully implemented and used to predict temperature, PM2.5 level, and energy consumption. The model produced accurate predictions with low error, showing good performance.
